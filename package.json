@@ -1,0 +1,23 @@
+{
+    "name": "com.chenpipi.code-executor-custom-injector",
+    "version": "1.0.0",
+    "unity": "2020.2",
+    "displayName": "Code Executor Custom Injector",
+    "keywords": [
+        "code-executor"
+    ],
+    "description": "A custom execution mode injector for Code Executor.",
+    "author": {
+        "name": "ChenPipi",
+        "email": "952157129@qq.com",
+        "url": "https://github.com/ichenpipi"
+    },
+    "dependencies": {
+        "com.chenpipi.code-executor": "1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ichenpipi/unity-code-executor-custom-injector.git"
+    },
+    "license": "MIT"
+}
